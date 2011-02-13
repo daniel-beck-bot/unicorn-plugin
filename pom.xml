@@ -52,8 +52,8 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git://github.com:nej/unicorn-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:nej/unicorn-plugin.git</developerConnection>
+    <connection>scm:git:git://github.com:jenkinsci/unicorn-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/unicorn-plugin.git</developerConnection>
     <url>http://github.com/nej/unicorn-plugin</url>
   </scm>
 
