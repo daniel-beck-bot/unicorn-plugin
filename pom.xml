@@ -9,7 +9,7 @@
 
   <groupId>si.nej.hudson.plugins</groupId>
   <artifactId>unicorn</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Unicorn Validation Plugin</name>
   <description>Adds W3C's Unified Validator to Jenkins.</description>
