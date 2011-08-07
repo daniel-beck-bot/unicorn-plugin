@@ -1,0 +1,7 @@
+2011-08-07  Jernej Zorec  <jernejz@gmail.com>
+
+	* Fixed bug: Max error/warning values get reset on read configuration from disk (thx to Steven Nemetz and Niko Schmuck for reporting)
+
+2011-02-13  Jernej Zorec  <jernejz@gmail.com>
+
+	* Initial release
