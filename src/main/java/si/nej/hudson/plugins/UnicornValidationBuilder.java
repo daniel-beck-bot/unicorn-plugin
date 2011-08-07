@@ -65,6 +65,22 @@ public class UnicornValidationBuilder extends Builder {
         return siteUrl;
     }
 
+    public String getMaxErrorsForStable() {
+        return maxErrorsForStable;
+    }
+
+    public String getMaxErrorsForUnstable() {
+        return maxErrorsForUnstable;
+    }
+
+    public String getMaxWarningsForStable() {
+        return maxWarningsForStable;
+    }
+
+    public String getMaxWarningsForUnstable() {
+        return maxWarningsForUnstable;
+    }
+
     @Override
     public boolean perform(AbstractBuild build, Launcher launcher, BuildListener listener) {
 
